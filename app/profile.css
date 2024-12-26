@@ -1,0 +1,116 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.6;
+} */
+
+/* BAGIAN NAVBAR */
+/* .navbar {
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 5rem;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #777777;
+}
+
+.navbar .navbar_contents .logo {
+  width: 100px;
+}
+
+.navbar_contents {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem auto;
+  margin: 0rem 4rem;
+}
+
+.navbar_contents .nav-links {
+  display: flex;
+  list-style: none;
+}
+
+.navbar_contents .nav-links li {
+  margin: 0 1rem;
+}
+
+.navbar_contents .nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-size: 20px;
+}
+
+.navbar_contents .nav-icons a {
+  display: inline-flex;
+  margin-left: 1rem;
+  cursor: pointer;
+}
+
+.profile {
+    max-width: 1240px;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.5);
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.profile h2 {
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.profile form div {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.profile label {
+    display: block;
+    font-weight: bold;
+    color: gold;
+}
+
+.profile input,
+.profile textarea {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background: #111;
+    color: #f5f5f5;
+}
+
+.profile button {
+    background: gold;
+    color: #111;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: 10px 0;
+}
+
+.profile button:hover {
+    background: #f1c40f;
+    transform: scale(1.05);
+}
+
+.profile p {
+    margin-top: 20px;
+    color: #f5f5f5;
+    font-style: italic;
+} */
+
